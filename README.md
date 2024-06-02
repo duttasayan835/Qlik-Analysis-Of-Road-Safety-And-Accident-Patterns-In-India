@@ -6,4 +6,10 @@ scenario 2 : Trend Analysis
 Qlik can perform trend analysis on historical accident data to identify patterns and recurring factors leading to accidents. This includes analyzing accident types (e.g., collisions, pedestrian accidents), seasonal variations, and driver behavior (e.g., speeding, distracted driving). Insights gained can guide awareness campaigns, driver training programs, and policy reforms aimed at addressing root causes.
 scenario 3 : Predictive Modeling Using predictive analytics 
 Qlik can forecast potential accident scenarios based on real-time data inputs. By considering variables like weather forecasts, traffic flow patterns, and historical accident trends, the platform can provide early warnings and proactive measures to prevent accidents. This predictive capability empowers authorities to deploy resources strategically and implement preemptive safety measures.
- 
+
+
+DATASET LINK - 
+"https://drive.google.com/drive/folders/1rnbke37eQUARI2aZax8hhI8w7L3Y80CD?usp=sharing" 
+
+
+PROJECT DEMONSTRATION VIDEO LINK - ""
