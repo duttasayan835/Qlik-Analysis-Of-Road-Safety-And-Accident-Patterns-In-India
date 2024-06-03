@@ -11,5 +11,10 @@ Qlik can forecast potential accident scenarios based on real-time data inputs. B
 DATASET LINK - 
 "https://drive.google.com/drive/folders/1rnbke37eQUARI2aZax8hhI8w7L3Y80CD?usp=sharing" 
 
+DOCUMENTATION LINK -
+"https://drive.google.com/drive/folders/1Uf5-BC8dvSsBGJu13Dwh45XCZjOmo2gP?usp=sharing"
+
+QLIK SENSE APP LINK - 
+"https://ub83r24p3e9f7wm.sg.qlikcloud.com/sense/app/3e9d5200-c2d0-494a-aae9-670f3c91794e"
 
 PROJECT DEMONSTRATION VIDEO LINK - ""
