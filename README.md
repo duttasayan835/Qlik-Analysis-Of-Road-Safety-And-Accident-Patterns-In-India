@@ -14,7 +14,16 @@ DATASET LINK -
 DOCUMENTATION LINK -
 "https://drive.google.com/drive/folders/1Uf5-BC8dvSsBGJu13Dwh45XCZjOmo2gP?usp=sharing"
 
-QLIK SENSE APP LINK - 
+PRE-PROCESSED DATASET LINK - 
 "https://ub83r24p3e9f7wm.sg.qlikcloud.com/sense/app/3e9d5200-c2d0-494a-aae9-670f3c91794e"
+
+QLIK VISUALIZATION LINK - 
+"https://drive.google.com/file/d/1KWRjCGltZ-LnP1Zll_Qty-ZFCTnjepgp/view?usp=sharing"
+
+QLIK DASHBOARD PDF LINK - 
+"https://drive.google.com/file/d/1NAA_j4lL0BOFGQdVS8HD6QamSh8z33JR/view?usp=sharing"
+
+QLIK STORYTELLING PDF LINK - 
+"https://drive.google.com/file/d/1vcJzB225jiWOo7kFeROL_k5CkFaXclyO/view?usp=sharing"
 
 PROJECT DEMONSTRATION VIDEO LINK - ""
