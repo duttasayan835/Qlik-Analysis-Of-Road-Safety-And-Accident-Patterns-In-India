@@ -26,4 +26,4 @@ QLIK DASHBOARD PDF LINK -
 QLIK STORYTELLING PDF LINK - 
 "https://drive.google.com/file/d/1vcJzB225jiWOo7kFeROL_k5CkFaXclyO/view?usp=sharing"
 
-PROJECT DEMONSTRATION VIDEO LINK - ""
+PROJECT DEMONSTRATION VIDEO LINK - "https://drive.google.com/file/d/1pcthj1YqWfcmkiJu8cOTIFGz0MSNfPu6/view?usp=sharing"
